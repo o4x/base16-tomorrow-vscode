@@ -70,7 +70,7 @@
     "gitDecoration.untrackedResourceForeground": "#73c990",
     "gitDecoration.ignoredResourceForeground": "#696d71",
     "gitDecoration.conflictingResourceForeground": "#6494ed",
-    "gitDecoration.deletedResourceForeground": "#ff6347",
+    "gitDecoration.deletedResourceForeground": "#ff6347"
   },
   "tokenColors": [
     {
