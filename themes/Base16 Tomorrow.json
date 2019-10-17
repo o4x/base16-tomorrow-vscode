@@ -1,9 +1,10 @@
 {
   "type": "dark",
   "colors": {
-    "focusBorder": "#161719",
     "foreground": "#d9dbde",
     "widget.shadow": "#282a2e",
+    "textBlockQuote.background": "#373b41",
+    "textCodeBlock.background": "373b41",
     "textLink.foreground": "#81a2be",
     "textLink.activeForeground": "#6494ed",
     "selection.background": "#373b41",
