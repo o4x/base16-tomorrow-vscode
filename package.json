@@ -1,0 +1,45 @@
+{
+	"name": "base16-tomorrow",
+	"displayName": "Base16 Tomorrow",
+	"version": "0.1.0",
+	"publisher": "o4x",
+	"description": "A base16 color theme styled to look like Atom's Base16 Tomorrow",
+	"author": {
+	"name": "Reza"
+	},
+	"categories": ["Themes"],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#1d1f21",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.16.0"
+	},
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"bugs": {
+	"url": "https://github.com/o4x/base16-tomorrow-vscode.git/issues"
+	},
+	"keywords": [
+		"base16",
+		"tomorrow",
+		"theme",
+		"dark",
+		"atom",
+		"onedark"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/o4x/base16-tomorrow-vscode.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Base16 Tomorrow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Base16 Tomorrow.json"
+			}
+		]
+	},
+	"homepage": "https://github.com/o4x/base16-tomorrow-vscode.git/master/README.md"
+}
