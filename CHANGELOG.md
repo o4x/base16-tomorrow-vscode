@@ -4,6 +4,11 @@ All notable changes to the "base16-tomorrow-night-dark-vscode" extension will be
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.3]
+
+- Change border color
+- Fix homepage
+
 ## [0.1.2]
 
 - Change icon
