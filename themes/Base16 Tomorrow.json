@@ -1,7 +1,7 @@
 {
   "type": "dark",
   "colors": {
-    "focusBorder": "#c5c8c6",
+    "focusBorder": "#373b41",
     "contrastBorder": "#0c0d0e",
     "foreground": "#d9dbde",
     "widget.shadow": "#282a2e",
@@ -40,7 +40,6 @@
     "statusBar.foreground": "#c5c8c6",
     "statusBar.background": "#161719",
     "statusBar.noFolderBackground": "#161719",
-    "editorGroup.emptyBackground": "#161719",
     "editor.background": "#1d1f21",
     "editor.foreground": "#c5c8c6",
     "editor.selectionBackground": "#373b41",
