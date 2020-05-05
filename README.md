@@ -1,5 +1,6 @@
 # Base16 Tomorrow 🏳‍🌈
 
+![Base16 Tomorrow](icon.png)
 
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/o4x.base16-tomorrow.svg)](https://marketplace.visualstudio.com/items?itemName=o4x.base16-tomorrow)
 [![Downloads](https://img.shields.io/vscode-marketplace/r/o4x.base16-tomorrow)](https://marketplace.visualstudio.com/items?itemName=o4x.base16-tomorrow)
@@ -14,7 +15,6 @@ A Visual Studio Code theme like atom's Base16 Tomorrow. Color choices have taken
 
 ## Windows
 ![First Screen Light](./screenshots/screen03.png)
-![Base16 Tomorrow](./screenshots/screen04.png)
 
 # Installation
 
@@ -25,3 +25,4 @@ A Visual Studio Code theme like atom's Base16 Tomorrow. Color choices have taken
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
 7.  From the menu bar click: Code > Preferences > Color Theme > **Base16 Tomorrow**
+8. Enjoy 😉
