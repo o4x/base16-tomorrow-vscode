@@ -4,6 +4,13 @@ All notable changes to the "base16-tomorrow-night-dark-vscode" extension will be
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.2.0]
+
+- Fix issue #1
+- Change debug color
+- Add terminal color
+- and more...
+
 ## [0.1.3]
 
 - Change border color
