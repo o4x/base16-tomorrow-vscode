@@ -1,7 +1,7 @@
 {
 	"name": "base16-tomorrow",
 	"displayName": "Base16 Tomorrow",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"publisher": "o4x",
 	"description": "A base16 color theme styled to look like Atom's Base16 Tomorrow",
 	"author": {
