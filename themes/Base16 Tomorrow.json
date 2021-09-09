@@ -255,7 +255,14 @@
     "settings.numberInputBorder": "#1d1f21",
     "listFilterWidget.background": "#1d1f21",
     "listFilterWidget.outline": "#1d1f21",
-    "listFilterWidget.noMatchesOutline": "#914646"
+    "listFilterWidget.noMatchesOutline": "#914646",
+    "editorBracketHighlight.foreground1": "#de935f",
+    "editorBracketHighlight.foreground2": "#f0c674",
+    "editorBracketHighlight.foreground3": "#b5bd68",
+    "editorBracketHighlight.foreground4": "#81a2be",
+    "editorBracketHighlight.foreground5": "#b294bb",
+    "editorBracketHighlight.foreground6": "#a3685a",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#cc6666"
   },
   "tokenColors": [
     {
