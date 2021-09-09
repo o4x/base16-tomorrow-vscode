@@ -4,6 +4,10 @@ All notable changes to the "base16-tomorrow-night-dark-vscode" extension will be
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.2.2]
+
+- Add support for vscode bracket colorizer
+
 ## [0.2.1]
 
 - Fix issue #2
