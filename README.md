@@ -2,11 +2,6 @@
 
 ![Base16 Tomorrow](icon.png)
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/o4x.base16-tomorrow.svg)](https://marketplace.visualstudio.com/items?itemName=o4x.base16-tomorrow)
-[![Downloads](https://img.shields.io/vscode-marketplace/r/o4x.base16-tomorrow)](https://marketplace.visualstudio.com/items?itemName=o4x.base16-tomorrow)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/o4x.base16-tomorrow.svg)](https://marketplace.visualstudio.com/items?itemName=o4x.base16-tomorrow)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/o4x.base16-tomorrow.svg)](https://marketplace.visualstudio.com/items?itemName=o4x.base16-tomorrow)
-
 A Visual Studio Code theme like atom's Base16 Tomorrow. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
 ## Linux
